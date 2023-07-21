@@ -23,7 +23,7 @@ const DocumentTitle: FC<DocumentTitleProps> = ({ title }) => {
 
   return (
     <Helmet>
-      <title>{`${title}`}</title>
+      <title>{`${title} | Simplidata`}</title>
     </Helmet>
   );
 };
