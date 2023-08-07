@@ -1,6 +1,6 @@
 # Custom Property
 
-OpenMetadata supports custom properties in the data assets.
+SimpliData supports custom properties in the data assets.
 
 $$section
 ### Name $(id="name")
